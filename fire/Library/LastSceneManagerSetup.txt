@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Assets_By_Unluck_Activeden/skyboxes/skyboxBlueNebula/scenes/fire.unity
+  isLoaded: 1
+  isActive: 1
